@@ -1,0 +1,17 @@
+20:50:18 **** Incremental Build of configuration Debug for project lesson2_blink_w_systick ****
+make -j8 all 
+arm-none-eabi-gcc -mcpu=cortex-m4 -g3 -DDEBUG -c -I"/home/adailton/Dropbox/projects/STM32-Asm/lesson2_blink_w_systick/Inc" -x assembler-with-cpp -MMD -MP -MF"Src/utils.d" -MT"Src/utils.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/utils.o" "../Src/utils.s"
+arm-none-eabi-gcc -o "lesson2_blink_w_systick.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/adailton/Dropbox/projects/STM32-Asm/lesson2_blink_w_systick/STM32F407VETX_FLASH.ld" -Wl,-Map="lesson2_blink_w_systick.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: lesson2_blink_w_systick.elf
+ 
+arm-none-eabi-size  lesson2_blink_w_systick.elf 
+arm-none-eabi-objdump -h -S lesson2_blink_w_systick.elf  > "lesson2_blink_w_systick.list"
+   text	   data	    bss	    dec	    hex	filename
+    652	      0	   1568	   2220	    8ac	lesson2_blink_w_systick.elf
+Finished building: default.size.stdout
+ 
+Finished building: lesson2_blink_w_systick.list
+ 
+
+20:50:18 Build Finished. 0 errors, 0 warnings. (took 125ms)
+

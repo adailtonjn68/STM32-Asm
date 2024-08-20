@@ -1,0 +1,5 @@
+
+.equ RCC_AHB1ENR_GPIOAEN,	(1 << 0)
+
+.equ GPIO_MODER_6_MASK,		(0b11 << 12)
+.equ GPIO_MODER_6_OUTPUT,	(0b01 << 12)

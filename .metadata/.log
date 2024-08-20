@@ -31,3 +31,60 @@ Command-line arguments:  -data /home/adailton/Dropbox/projects/STM32-Asm -os lin
 
 !ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-15 09:56:47.489
 !MESSAGE No .vrapperrc or _vrapperrc found.
+!SESSION 2024-08-20 14:46:32.530 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=eo
+Command-line arguments:  -data /home/adailton/Dropbox/projects/STM32-Asm -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-20 14:46:41.709
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-20 14:46:41.710
+!MESSAGE Log4j2 initialized with config file /home/adailton/Dropbox/projects/STM32-Asm/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-20 14:46:48.511
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 14:46:54.539
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 14:46:54.553
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-20 14:52:15.132
+!MESSAGE Indexed 'lesson2_blink_w_systick' (0 sources, 0 headers) in 0.005 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 14:52:32.230
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 14:54:08.244
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 14:55:47.647
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 14:56:44.033
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-20 20:26:09.675
+!MESSAGE Indexed 'lesson2_blink_w_systick' (0 sources, 0 headers) in 0.008 sec: 0 declarations; 0 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-20 20:26:43.261
+!MESSAGE Indexed 'lesson2_blink_w_systick' (0 sources, 0 headers) in 0.007 sec: 0 declarations; 0 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-20 20:40:45.912
+!MESSAGE Indexed 'lesson2_blink_w_systick' (0 sources, 0 headers) in 0.007 sec: 0 declarations; 0 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 20:41:50.247
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 20:43:07.682
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 20:44:43.036
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2024-08-20 20:50:21.839
+!MESSAGE No .vrapperrc or _vrapperrc found.
